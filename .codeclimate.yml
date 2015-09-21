@@ -84,9 +84,6 @@ ratings:
 # exclude_paths key.
 
 exclude_paths:
-  - '.*'
-  - '.*/*'
-  - '.*/**/*'
   - '*.xml'
   - '*.yml'
   - '*.lock'
